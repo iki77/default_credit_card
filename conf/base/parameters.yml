@@ -1,0 +1,7 @@
+test_size: 0.3
+random_state: 42
+null_thres: 0.2
+corr_thres: 0.95
+numeric_pct: 40
+nominal_pct: 80
+over_mltp: 1
