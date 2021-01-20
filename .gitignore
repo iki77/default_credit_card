@@ -19,9 +19,12 @@ logs/**
 # also keep all .gitkeep files
 !.gitkeep
 
-# keep also the example dataset
+# keep also the raw dataset
 !data/01_raw/*
 
+# keep also the reporting
+!data/08_reporting/classifier_search_results.xlsx
+!data/08_reporting/clients_pandas_profiling.html
 
 ##########################
 # Common files
